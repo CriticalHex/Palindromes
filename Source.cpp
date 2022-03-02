@@ -31,5 +31,5 @@ bool intPalindrome(int a) {
 
 int main() {
 	//cout << palindrome(102);
-	cout << intPalindrome(101) << endl;
+	cout << intPalindrome(102) << endl;
 }
